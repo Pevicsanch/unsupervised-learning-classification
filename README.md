@@ -1,4 +1,4 @@
-# unsupervised-learning-classificationç
+# unsupervised-learning-classification
 ## IT Academy - Data Science Itinerary: clustering algorithms.
 
 *S11-T01:clustering algorithms.
