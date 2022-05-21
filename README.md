@@ -23,4 +23,4 @@ To run this notebook you should  will need to have previously downloaded the [Ka
 
 Also, furthermore, to reproduce the notebook it will be necessary to download the *my_func* folder.
 
-To see the notebook in the browser, *click [here](https://pevicsanch.github.io/unsupervised-learning-classification/s11_t01_clustering_algorithms.html)
+To see the notebook in the browser, *click* [here](https://pevicsanch.github.io/unsupervised-learning-classification/s11_t01_clustering_algorithms.html)
