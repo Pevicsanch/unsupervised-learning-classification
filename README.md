@@ -10,7 +10,7 @@ Unsupervised learning encompasses a variety of techniques in machine learning, f
 
 + Become familiar and learn about clustering algorithms. 
 
-+ Perform cyclic feature encoding: this is converting the original time values to their corresponding cosine and sine value.
++ Perform cyclic feature encoding (converting the original time values to their corresponding cosine and sine value).
 
 + Does the cluster algorithms capture the effect of encoding cyclic characteristics?
 
